@@ -1762,7 +1762,7 @@ graphql-cli-prepare@1.4.19:
     graphql-static-binding "0.9.3"
     lodash "4.17.5"
 
-graphql-cli@^3.0.8:
+graphql-cli@3.0.8:
   version "3.0.8"
   resolved "https://registry.yarnpkg.com/graphql-cli/-/graphql-cli-3.0.8.tgz#bfbb9e25b273ac8e9511a32dafc509792f80f88a"
   integrity sha512-1dJkE/WY1lV9SQ8VL1ZuN9+tn7Ed5B7KG43I5qeLV54s4bjHPFGkn5Aldptf0mojTWzKdSf0DLCUo8wsiUVXpQ==
@@ -4197,7 +4197,7 @@ trim-right@^1.0.1:
   resolved "https://registry.yarnpkg.com/trim-right/-/trim-right-1.0.1.tgz#cb2e1203067e0c8de1f614094b9fe45704ea6003"
   integrity sha1-yy4SAwZ+DI3h9hQJS5/kVwTqYAM=
 
-ts-node-dev@^1.0.0-pre.32:
+ts-node-dev@1.0.0-pre.32:
   version "1.0.0-pre.32"
   resolved "https://registry.yarnpkg.com/ts-node-dev/-/ts-node-dev-1.0.0-pre.32.tgz#aa3bb9056c002713cfc393b2c324459020db41dc"
   integrity sha512-hOy2mp5ncnKAJFjuQtfHOk6tqG7FfTnuARDsV5WGSQz0ldPG9iTQLbDn+q2wwNuvjbCfsAeGWwDMJc/73EraPQ==
